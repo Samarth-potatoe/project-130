@@ -1,0 +1,36 @@
+#play1
+{
+    width: 150px;
+    font-size: 25px;
+   margin-top: 30px;
+}
+
+h1{
+    width: 100%;
+}
+
+.song_name
+{
+    font-size: 20px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    width: 80px;
+}
+
+body
+{
+   background-size: cover;
+}
+
+#myCanvas
+{
+    background-color: black;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px #73cfd8;
+    height: 350;
+    width: 35%;
+}
